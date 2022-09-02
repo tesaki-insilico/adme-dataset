@@ -1,2 +1,0 @@
-README.md filter=lfs diff=lfs merge=lfs -text
-supplementary_information filter=lfs diff=lfs merge=lfs -text
